@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kmToMile</string>
+    <string name="Tag">Convertor</string>
+    <string name="task_1">Task 1</string>
+    <string name="miles">Miles</string>
+    <string name="km">Km</string>
+    <string name="convert_miles_to_km">Convert Miles to Km</string>
+    <string name="convert_km_to_mile">Convert Km to Mile</string>
+</resources>
